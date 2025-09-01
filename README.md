@@ -5,7 +5,6 @@ Email Me 👉 ✉️ **badalpujhari84@gmail.com** For Collaboration/Project or A
 
 - 🔭 **I’m currently working on:** on my personal website
 - 🌱 **I’m currently learning:** Backend Web Development
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** badalpujhari84@gmail.com
 - 😄 **Pronouns:** Badal
