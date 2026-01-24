@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **badalpujhari84@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** on my personal project 
+- 🔭 **I’m currently working on:** my personal project 
 - 🌱 **I’m currently learning:** Backend Web Development
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** badalpujhari84@gmail.com
