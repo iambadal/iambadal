@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Badal Pujhari</h1>
+<h1 align="center">
+  Hi 👋, I'm
+  <a href="https://badal-os-portfolio-5qde.vercel.app/" target="_blank">Badal Pujhari</a>
+</h1>
 
 <h3 align="center">Programmer | Full Stack Web Developer | Cybersecurity Enthusiast</h3>
 
@@ -55,19 +58,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iambadal&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iambadal&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambadal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
