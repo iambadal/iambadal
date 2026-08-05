@@ -65,7 +65,6 @@
 
 - 🥈 **2nd Place** – Cybersec Battle, D3 Tech Fest, IIIT Bhubaneswar
 - 🔐 **InfoSec Domain Lead** – Tech Society, IIIT Bhubaneswar
-- 💻 Built multiple **Full Stack Web Applications** using React, Node.js, Express.js & MongoDB
 ---
 
 ## 📈 Contribution Graph
