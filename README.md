@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm
-  <a href="https://badal-os-portfolio-5qde.vercel.app/" target="_blank">Badal Pujhari</a>
+  <a href="https://badal-os-portfolio.vercel.app/" target="_blank">Badal Pujhari</a>
 </h1>
 
 <h3 align="center">Programmer | Full Stack Web Developer | Cybersecurity Enthusiast</h3>
