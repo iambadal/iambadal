@@ -67,15 +67,17 @@
 - 🔐 **InfoSec Domain Lead** – Tech Society, IIIT Bhubaneswar
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img
-    src="https://github.pumbas.net/api/contributions/iambadal?days=30&colour=3B82F6&bgColour=0D1117&dotColour=58A6FF"
-    alt="Badal Pujhari's GitHub Contribution Activity"
-    width="850"
-  />
-</p>
+## 📈 GitHub Contributions
 
+<p align="center">
+  <a href="https://github.com/iambadal">
+    <img
+      src="https://ghchart.rshah.org/00D9FF/iambadal"
+      width="100%"
+      alt="Badal Pujhari's GitHub Contributions"
+    />
+  </a>
+</p>
 ---
 
 <p align="center">
