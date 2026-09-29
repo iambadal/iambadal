@@ -71,7 +71,7 @@
 <p align="center">
   <img
     src="https://github.pumbas.net/api/contributions/himanshu-sahu-027?days=30&colour=3B82F6&bgColour=0D1117&dotColour=58A6FF"
-    alt="Himanshu Sahu's GitHub Contribution Activity"
+    alt="Badal Pujhari's GitHub Contribution Activity"
     width="850"
   />
 </p>
