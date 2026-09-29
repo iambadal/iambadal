@@ -68,8 +68,13 @@
 ---
 
 ## 📈 Contribution Graph
-
-[![Badal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iambadal&theme=tokyo-night)](https://github.com/iambadal)
+<p align="center">
+  <img
+    src="https://github.pumbas.net/api/contributions/himanshu-sahu-027?days=30&colour=3B82F6&bgColour=0D1117&dotColour=58A6FF"
+    alt="Himanshu Sahu's GitHub Contribution Activity"
+    width="850"
+  />
+</p>
 
 ---
 
